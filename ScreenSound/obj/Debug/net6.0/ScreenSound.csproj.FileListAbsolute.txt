@@ -84,6 +84,7 @@ C:\Users\desenvolvimento06\source\repos\3506-csharpWeb-screensound-curso1\Screen
 C:\Users\desenvolvimento06\source\repos\3506-csharpWeb-screensound-curso1\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfoInputs.cache
 C:\Users\desenvolvimento06\source\repos\3506-csharpWeb-screensound-curso1\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfo.cs
 C:\Users\desenvolvimento06\source\repos\3506-csharpWeb-screensound-curso1\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\desenvolvimento06\source\repos\3506-csharpWeb-screensound-curso1\ScreenSound\obj\Debug\net6.0\ScreenSound.sourcelink.json
 C:\Users\desenvolvimento06\source\repos\3506-csharpWeb-screensound-curso1\ScreenSound\obj\Debug\net6.0\ScreenSo.4E60E543.Up2Date
 C:\Users\desenvolvimento06\source\repos\3506-csharpWeb-screensound-curso1\ScreenSound\obj\Debug\net6.0\ScreenSound.dll
 C:\Users\desenvolvimento06\source\repos\3506-csharpWeb-screensound-curso1\ScreenSound\obj\Debug\net6.0\refint\ScreenSound.dll

@@ -7,6 +7,7 @@ C:\Users\desenvolvimento06\source\repos\3506-csharpWeb-screensound-curso1\Screen
 C:\Users\desenvolvimento06\source\repos\3506-csharpWeb-screensound-curso1\ScreenSound.Shared.Modelos\obj\Debug\net6.0\ScreenSound.Shared.Modelos.AssemblyInfoInputs.cache
 C:\Users\desenvolvimento06\source\repos\3506-csharpWeb-screensound-curso1\ScreenSound.Shared.Modelos\obj\Debug\net6.0\ScreenSound.Shared.Modelos.AssemblyInfo.cs
 C:\Users\desenvolvimento06\source\repos\3506-csharpWeb-screensound-curso1\ScreenSound.Shared.Modelos\obj\Debug\net6.0\ScreenSound.Shared.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\desenvolvimento06\source\repos\3506-csharpWeb-screensound-curso1\ScreenSound.Shared.Modelos\obj\Debug\net6.0\ScreenSound.Shared.Modelos.sourcelink.json
 C:\Users\desenvolvimento06\source\repos\3506-csharpWeb-screensound-curso1\ScreenSound.Shared.Modelos\obj\Debug\net6.0\ScreenSound.Shared.Modelos.dll
 C:\Users\desenvolvimento06\source\repos\3506-csharpWeb-screensound-curso1\ScreenSound.Shared.Modelos\obj\Debug\net6.0\refint\ScreenSound.Shared.Modelos.dll
 C:\Users\desenvolvimento06\source\repos\3506-csharpWeb-screensound-curso1\ScreenSound.Shared.Modelos\obj\Debug\net6.0\ScreenSound.Shared.Modelos.pdb

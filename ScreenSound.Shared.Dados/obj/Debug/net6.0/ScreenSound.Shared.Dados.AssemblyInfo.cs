@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScreenSound.Shared.Dados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61f158d47d574b0212cd588f003f82bb2f2adfbf")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScreenSound.Shared.Dados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScreenSound.Shared.Dados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
