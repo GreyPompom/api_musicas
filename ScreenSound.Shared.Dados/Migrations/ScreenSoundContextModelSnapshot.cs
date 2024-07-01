@@ -79,10 +79,6 @@ namespace ScreenSound.Migrations
                     b.Property<int?>("ArtistaId")
                         .HasColumnType("int");
 
-                    b.Property<string>("Letra")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<string>("Nome")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");

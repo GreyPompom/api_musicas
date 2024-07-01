@@ -44,19 +44,6 @@ public static class GeneroExtensions
             dal.Deletar(genero);
             return Results.NoContent();
         });
-
-        app.MapPut("Generos/{id}", ([FromServices] DAL<Genero> dal, [FromBody] GeneroRequest generoReq, int id) =>
-        {
-            var genero = dal.RecuperarPor(a => a.Id == id);
-            if (genero is null)
-            {
-                return Results.NotFound("Gênero para atualização não encontrado.");
-            }
-            genero.Nome = generoReq.Nome;
-            genero.Descricao = generoReq.Descricao;
-            dal.Atualizar(genero);
-            return Results.NoContent();
-        });
     }
 
     private static Genero RequestToEntity(GeneroRequest generoRequest)
@@ -71,6 +58,6 @@ public static class GeneroExtensions
 
     private static GeneroResponse EntityToResponse(Genero genero)
     {
-        return new GeneroResponse(genero.Id, genero.Nome!, genero.Descricao!);
+        return new GeneroResponse(genero.Id,genero.Nome!, genero.Descricao!);
     }
 }

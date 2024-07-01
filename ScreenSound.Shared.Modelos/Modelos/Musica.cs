@@ -6,7 +6,7 @@ public class Musica
 {
     public Musica()
     {
-
+        
     }
     public Musica(string nome)
     {
@@ -18,12 +18,11 @@ public class Musica
     public int? AnoLancamento { get; set; }
     public int? ArtistaId { get; set; }
     public virtual Artista? Artista { get; set; }
-    public string Letra { get; set; }
     public virtual ICollection<Genero> Generos { get; set; }
     public void ExibirFichaTecnica()
     {
         Console.WriteLine($"Nome: {Nome}");
-
+      
     }
 
     public override string ToString()
