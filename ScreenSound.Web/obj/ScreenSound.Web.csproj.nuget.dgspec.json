@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\desenvolvimento06\\Documents\\ScreenSound-BlazorWeb\\ScreenSound.Web\\ScreenSound.Web.csproj": {}
+    "C:\\Users\\desenvolvimento06\\source\\repos\\3506-csharpWeb-screensound-curso1\\ScreenSound.Web\\ScreenSound.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\desenvolvimento06\\Documents\\ScreenSound-BlazorWeb\\ScreenSound.Web\\ScreenSound.Web.csproj": {
+    "C:\\Users\\desenvolvimento06\\source\\repos\\3506-csharpWeb-screensound-curso1\\ScreenSound.Web\\ScreenSound.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\desenvolvimento06\\Documents\\ScreenSound-BlazorWeb\\ScreenSound.Web\\ScreenSound.Web.csproj",
+        "projectUniqueName": "C:\\Users\\desenvolvimento06\\source\\repos\\3506-csharpWeb-screensound-curso1\\ScreenSound.Web\\ScreenSound.Web.csproj",
         "projectName": "ScreenSound.Web",
-        "projectPath": "C:\\Users\\desenvolvimento06\\Documents\\ScreenSound-BlazorWeb\\ScreenSound.Web\\ScreenSound.Web.csproj",
+        "projectPath": "C:\\Users\\desenvolvimento06\\source\\repos\\3506-csharpWeb-screensound-curso1\\ScreenSound.Web\\ScreenSound.Web.csproj",
         "packagesPath": "C:\\Users\\desenvolvimento06\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\desenvolvimento06\\Documents\\ScreenSound-BlazorWeb\\ScreenSound.Web\\obj\\",
+        "outputPath": "C:\\Users\\desenvolvimento06\\source\\repos\\3506-csharpWeb-screensound-curso1\\ScreenSound.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -51,12 +51,12 @@
           "dependencies": {
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.6, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.6, )"
             },
             "Microsoft.Extensions.Http": {
               "target": "Package",
@@ -76,7 +76,7 @@
             },
             "MudBlazor": {
               "target": "Package",
-              "version": "[6.11.1, )"
+              "version": "[6.20.0, )"
             }
           },
           "imports": [

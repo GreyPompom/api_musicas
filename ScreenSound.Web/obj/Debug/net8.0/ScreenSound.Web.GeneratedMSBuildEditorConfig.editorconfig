@@ -13,63 +13,63 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = ScreenSound.Web
 build_property.RootNamespace = ScreenSound.Web
-build_property.ProjectDir = C:\Users\desenvolvimento06\Documents\ScreenSound-BlazorWeb\ScreenSound.Web\
+build_property.ProjectDir = C:\Users\desenvolvimento06\source\repos\3506-csharpWeb-screensound-curso1\ScreenSound.Web\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\desenvolvimento06\Documents\ScreenSound-BlazorWeb\ScreenSound.Web
+build_property.MSBuildProjectDirectory = C:\Users\desenvolvimento06\source\repos\3506-csharpWeb-screensound-curso1\ScreenSound.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/desenvolvimento06/Documents/ScreenSound-BlazorWeb/ScreenSound.Web/App.razor]
+[C:/Users/desenvolvimento06/source/repos/3506-csharpWeb-screensound-curso1/ScreenSound.Web/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/desenvolvimento06/Documents/ScreenSound-BlazorWeb/ScreenSound.Web/Components/CardArtista.razor]
+[C:/Users/desenvolvimento06/source/repos/3506-csharpWeb-screensound-curso1/ScreenSound.Web/Components/CardArtista.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDYXJkQXJ0aXN0YS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/desenvolvimento06/Documents/ScreenSound-BlazorWeb/ScreenSound.Web/Pages/Artistas.razor]
+[C:/Users/desenvolvimento06/source/repos/3506-csharpWeb-screensound-curso1/ScreenSound.Web/Pages/Artistas.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aXN0YXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/desenvolvimento06/Documents/ScreenSound-BlazorWeb/ScreenSound.Web/Pages/CadastrarArtista.razor]
+[C:/Users/desenvolvimento06/source/repos/3506-csharpWeb-screensound-curso1/ScreenSound.Web/Pages/CadastrarArtista.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FkYXN0cmFyQXJ0aXN0YS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/desenvolvimento06/Documents/ScreenSound-BlazorWeb/ScreenSound.Web/Pages/CadastrarMusica.razor]
+[C:/Users/desenvolvimento06/source/repos/3506-csharpWeb-screensound-curso1/ScreenSound.Web/Pages/CadastrarMusica.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FkYXN0cmFyTXVzaWNhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/desenvolvimento06/Documents/ScreenSound-BlazorWeb/ScreenSound.Web/Pages/EditarArtista.razor]
+[C:/Users/desenvolvimento06/source/repos/3506-csharpWeb-screensound-curso1/ScreenSound.Web/Pages/EditarArtista.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdGFyQXJ0aXN0YS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/desenvolvimento06/Documents/ScreenSound-BlazorWeb/ScreenSound.Web/Pages/EditarMusica.razor]
+[C:/Users/desenvolvimento06/source/repos/3506-csharpWeb-screensound-curso1/ScreenSound.Web/Pages/EditarMusica.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdGFyTXVzaWNhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/desenvolvimento06/Documents/ScreenSound-BlazorWeb/ScreenSound.Web/Pages/Home.razor]
+[C:/Users/desenvolvimento06/source/repos/3506-csharpWeb-screensound-curso1/ScreenSound.Web/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/desenvolvimento06/Documents/ScreenSound-BlazorWeb/ScreenSound.Web/Pages/MusicasPorArtista.razor]
+[C:/Users/desenvolvimento06/source/repos/3506-csharpWeb-screensound-curso1/ScreenSound.Web/Pages/MusicasPorArtista.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVzaWNhc1BvckFydGlzdGEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/desenvolvimento06/Documents/ScreenSound-BlazorWeb/ScreenSound.Web/Pages/MusicasPorGenero.razor]
+[C:/Users/desenvolvimento06/source/repos/3506-csharpWeb-screensound-curso1/ScreenSound.Web/Pages/MusicasPorGenero.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVzaWNhc1BvckdlbmVyby5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/desenvolvimento06/Documents/ScreenSound-BlazorWeb/ScreenSound.Web/_Imports.razor]
+[C:/Users/desenvolvimento06/source/repos/3506-csharpWeb-screensound-curso1/ScreenSound.Web/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/desenvolvimento06/Documents/ScreenSound-BlazorWeb/ScreenSound.Web/Layout/MainLayout.razor]
+[C:/Users/desenvolvimento06/source/repos/3506-csharpWeb-screensound-curso1/ScreenSound.Web/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-5xmo7ao687
 
-[C:/Users/desenvolvimento06/Documents/ScreenSound-BlazorWeb/ScreenSound.Web/Layout/NavMenu.razor]
+[C:/Users/desenvolvimento06/source/repos/3506-csharpWeb-screensound-curso1/ScreenSound.Web/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-odzl9nuyv2
